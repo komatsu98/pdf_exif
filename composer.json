@@ -1,0 +1,24 @@
+{
+    "name": "ho_anh_tien/pdf_exif",
+    "description": "Get basic info of a pdf file.",
+    "keywords": ["pdf", "get info", "composer", "package"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Komatsu",
+            "email": "chemgiosa5@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "komatsu98\\PdfExif\\": "src/"
+        }
+    }
+}
