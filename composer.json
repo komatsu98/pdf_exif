@@ -1,5 +1,5 @@
 {
-    "name": "ho_anh_tien/pdf_exif",
+    "name": "hoanhtien/pdf_exif",
     "description": "Get basic info of a pdf file.",
     "keywords": ["pdf", "get info", "composer", "package"],
     "license": "GPL-2.0",
