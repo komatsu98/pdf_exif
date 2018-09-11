@@ -7,7 +7,7 @@ Thực hiện bởi [Hồ Anh Tiến](https://github.com/komatsu98)
 
 ## Liên kết
 
-[Packagist](https://komatsu98.github.io/BS_full_website/app)
+[Packagist](https://packagist.org/packages/hoanhtien/pdf_exif)
 
 ## Kiến thức nắm được
 Cách tạo 1 package PHP và upload lên Packagist
